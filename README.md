@@ -17,27 +17,39 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Webserver to be installed and configured (IIS)
+- Database to be installed and configured (mySQL)
 
 <h2>Installation Steps</h2>
 
+<b>Step 1: Enable IIS and CGI on Your VM</b>
+
+- Open Control Panel > Programs > Programs and Features.
+- Click Turn Windows Features On or Off.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- In the features list, locate Internet Information Services (IIS) and check its box.
+- Expand IIS and ensure that CGI is also enabled.
+- Click OK to install and configure IIS and CGI.
 </p>
-<br />
+
+
+<b>Step 2: Install PHP Manager for IIS</b>
+
+- Download PHP Manager for IIS from a trusted source or the official IIS extensions site.
+- Run the installer and follow the on-screen instructions to complete the installation.
+
+PHP is a scripting language that osTicket depends on. Installing PHP Manager makes it easy to configure and manage PHP in IIS.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download PHP Manager for IIS from a trusted source or the official IIS extensions site.
+Run the installer and follow the on-screen instructions to complete the installation.
 </p>
 <br />
 
