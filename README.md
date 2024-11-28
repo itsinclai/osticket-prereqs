@@ -78,28 +78,22 @@ Now our database is installed!
 <b>Step 6: Configure PHP in IIS</b>
 
 IIS needs to know where PHP is installed to process PHP scripts for osTicket. By registering PHP with IIS, we’re connecting the two systems.
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![image](https://github.com/user-attachments/assets/3c18846c-1178-4c77-b5eb-330c13337d49)
 
 - Open IIS Manager as an administrator.
 - Locate PHP Manager in IIS.
-- Click Register New PHP Version and browse to the PHP folder (C:\PHP).
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![image](https://github.com/user-attachments/assets/6cbcb5b4-ead9-4955-92fb-6b007308872e)
 
 - Click Register New PHP Version and browse to the PHP folder (C:\PHP).
 - Select the PHP executable file (php-cgi.exe) and confirm.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/83062d67-b9cf-468e-a428-fdf8983c6771)
 
 - Next, we’re going to reload IIS meaning that we will start and stop the web server
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![image](https://github.com/user-attachments/assets/10edea1e-7f71-41fc-9af9-3187fd569428)
 
 <b>Step 7: Install osTicket</b>
 
