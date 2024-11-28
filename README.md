@@ -26,8 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Open Control Panel > Programs > Programs and Features.
 - Click Turn Windows Features On or Off.
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/34417fef-1147-467a-a929-8c1cf7305e48)
 </p>
 <p>
 
