@@ -17,8 +17,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Webserver to be installed and configured (IIS)
-- Database to be installed and configured (mySQL)
+- Install and configure IIS
+- Set up a database using mySQL
 
 <h2>Installation Steps</h2>
 
