@@ -180,9 +180,7 @@ Now we're going to set the file permissions.
 - Password: root
 - Click Open to connect.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/855a7f31-afbd-4cce-bb14-6d98cb07dbff)
 
 Next we will create the osTicket database:
 
@@ -191,17 +189,15 @@ Next we will create the osTicket database:
 - Name the database: osTicket.
 - Save and close HeidiSQL.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/1cc7d169-d8ba-484a-8555-f809bab6be0c)
+
 
 <b>Step 13: Finalize osTicket Setup </b>
 
 This step completes the installation process by linking osTicket to the database you just created and setting up initial system credentials.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/cf87a908-4f4c-4a12-b2f5-97d5c13eff12)
+
 
 - Go back to the osTicket installation page in your browser.
 - Fill in the required fields:
@@ -210,16 +206,8 @@ This step completes the installation process by linking osTicket to the database
 - MySQL Password: root
 - Click Install Now!
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/201ad406-9eca-4d40-9c11-813e5a357a6b)
 
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
