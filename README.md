@@ -73,7 +73,7 @@ Next, install MySQL file. MySQL is a relational database management system that 
 - Download and install MySQL.
 - During installation, select the Standard Configuration option to simplify setup.
 
-Now our database is installed!
+Now our database is installed.
 
 <b>Step 6: Configure PHP in IIS</b>
 
@@ -204,9 +204,11 @@ This step completes the installation process by linking osTicket to the database
 - MySQL Database Name: osTicket
 - MySQL Username: root
 - MySQL Password: root
-- Click Install Now!
+- Click Install Now.
 
 ![image](https://github.com/user-attachments/assets/201ad406-9eca-4d40-9c11-813e5a357a6b)
+
+osTicket is now installed.
 
 <br />
 
