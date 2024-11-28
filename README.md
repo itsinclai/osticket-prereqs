@@ -67,9 +67,8 @@ Create a directory on your system called C:\PHP. This directory will house all t
 
 Next, install MySQL file. MySQL is a relational database management system that osTicket uses to store critical data, such as user accounts, ticketing information, and configuration settings.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/715cd77d-83d9-4a63-92bd-2933b7c20f7c)
+
 
 - Download and install MySQL.
 - During installation, select the Standard Configuration option to simplify setup.
