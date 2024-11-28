@@ -139,15 +139,15 @@ Now you will see that more of your recommended extensions are enabled.
 
 osTicket requires a specific configuration file (ost-config.php) to store important settings like database credentials and other system configurations. By default, this file is provided as a sample (ost-sampleconfig.php). In this step we will rename it and set appropriate permissions.
 
+![image](https://github.com/user-attachments/assets/6bb55b37-eb69-453b-a4be-787d26155e1d)
+
 - Navigate to the following directory C:\inetpub\wwwroot\osTicket\include.
 - Locate the file named ost-sampleconfig.php.
 - Rename it to ost-config.php.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 Now we're going to set the file permissions.
+
+![image](https://github.com/user-attachments/assets/db28ac3d-467f-4f46-be7d-f7ea3036dd69)
 
 - Right-click on the newly renamed ost-config.php file and select Properties.
 - Go to the Security tab and click Edit.
@@ -159,21 +159,18 @@ Now we're going to set the file permissions.
 
 <b>Step 11: Begin osTicket Basic Installation</b>
 
-- First your going to fill out your credentials for osTicket.
+- First you're going to fill out your credentials for osTicket.
 - Enter an admin Username and password
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/56057eb1-7e1b-487c-84ab-7a98fb3e771e)
+
 
 <b>Step 12: Connect Database to osTicket using HeidiSQL</b>
 
 - Navigate to the osTicket-Installation-Files folder.
 - Locate the HeidiSQL installer and install the application.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/0686e865-d74e-4044-a906-853f0d49b4fb)
 
 - Open HeidiSQL and create a new connection:
 - Launch the application.
