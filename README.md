@@ -39,18 +39,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <b>Step 2: Install PHP Manager for IIS</b>
 
+Installing PHP Manager makes it easy to configure and manage PHP in IIS.
+
 - Download PHP Manager for IIS from a trusted source or the official IIS extensions site.
 - Run the installer and follow the on-screen instructions to complete the installation.
-
-PHP is a scripting language that osTicket depends on. Installing PHP Manager makes it easy to configure and manage PHP in IIS.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<b>Step 3: Set Up PHP</b>
+
+- Create a directory on your system called C:\PHP. This directory will house all the PHP files needed for osTicket to function.
+- Download the PHP installation files (typically provided as a ZIP file).
+- Extract the PHP files into the C:\PHP directory.
+
 <p>
-Download PHP Manager for IIS from a trusted source or the official IIS extensions site.
-Run the installer and follow the on-screen instructions to complete the installation.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<b>Step 4: Install Microsoft Visual C++ Redistributable</b>
+
+Next download and install the Microsoft Visual C++ Redistributable package that matches your system architecture.
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <br />
 
 <p>
