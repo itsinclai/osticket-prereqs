@@ -27,10 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Open Control Panel > Programs > Programs and Features.
 - Click Turn Windows Features On or Off.
 
-<p>
-![image](https://github.com/user-attachments/assets/34417fef-1147-467a-a929-8c1cf7305e48)
-</p>
-<p>
+![image](https://github.com/user-attachments/assets/0acddc92-7930-483b-ad9b-0b2bc893de72)
+
 
 - In the features list, locate Internet Information Services (IIS) and check its box.
 - Expand IIS and ensure that CGI is also enabled.
@@ -45,27 +43,25 @@ Installing PHP Manager makes it easy to configure and manage PHP in IIS.
 - Download PHP Manager for IIS from a trusted source or the official IIS extensions site.
 - Run the installer and follow the on-screen instructions to complete the installation.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/4963077b-9f7a-44b9-bab5-1acf608fe4f9)
+
 
 <b>Step 3: Set Up PHP</b>
 
-- Create a directory on your system called C:\PHP. This directory will house all the PHP files needed for osTicket to function.
+Create a directory on your system called C:\PHP. This directory will house all the PHP files needed for osTicket to function.
+
 - Download the PHP installation files (typically provided as a ZIP file).
 - Extract the PHP files into the C:\PHP directory.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/e2ce2bee-fe93-47de-86b5-d14c83eaf02b)
+
 
 <b>Step 4: Install Microsoft Visual C++ Redistributable</b>
 
-- Next download and install the Microsoft Visual C++ Redistributable package that matches your system architecture.
+- Next download and install the Microsoft Visual C++ Redistributable file from within the osTicket Installation folder.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/1b426dcb-0842-4efe-8aa3-fca3734cfbb2)
+
 
 <b>Step 5: Install MySQL</b>
 
