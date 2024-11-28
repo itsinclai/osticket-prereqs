@@ -104,9 +104,7 @@ osTicket’s files need to be placed in IIS’s root directory so that the web s
 - Copy the upload folder into C:\inetpub\wwwroot.
 - Rename the folder from upload to osTicket.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/c93568dd-6914-48c1-9e45-1eae03d54b52)
 
 <b>Step 8: Access osTicket</b>
 
@@ -116,9 +114,7 @@ This step ensures that osTicket is correctly installed and accessible through a 
 - Navigate to: [Your VM Name] > Sites > Default Web Site > osTicket.
 - Click Browse on the right-hand side to open the osTicket site in your default browser.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/d24bf4ee-cc63-4c61-a247-132d033b6e90)
 
 <b>Step 9: Verify Prerequisites and Enable PHP Extensions</b>
 
@@ -127,9 +123,7 @@ osTicket requires specific PHP extensions to unlock full functionality. These ex
 - On the osTicket installation page, verify that PHP and MySQL prerequisites are checked.
 - Open PHP Manager in IIS and click Enable or Disable an Extension.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/ea684640-7712-4655-9fa1-ddc18330c873)
 
 Enable the following extensions:
 - php_imap.dll
@@ -137,9 +131,7 @@ Enable the following extensions:
 - php_opcache.dll
 - Refresh the osTicket page to confirm that the extensions are now enabled.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/48ae505d-c1fd-47b6-a482-03c864661832)
 
 Now you will see that more of your recommended extensions are enabled.
 
